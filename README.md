@@ -4,5 +4,5 @@ The inital pynbs are inspired from Andrej Karpathy's videos.
 
 Content:
 
-1. lem0n_grad
-   Building an autograd mechanism from scratch
+## 1. lem0n_grad
+Building an autograd mechanism from scratch
